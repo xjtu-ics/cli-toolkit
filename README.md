@@ -1,10 +1,12 @@
 # cli-toolkit
 
-> cli-toolkit contains materials about git / ssh / vim / shell, etc.
+- contains materials about git / ssh / vim / shell, etc.
+- [Youtube Channel](https://www.youtube.com/@root-hbx)
+
 
 ### Chapter 1
 
-> 2025-02-23 
+> 2025-02-23 [Video](https://youtu.be/UxUQqD9Jjbo?si=_DR54zANn95a7Gn2)
 
 Topic 1: SSH for ICS Server && VSCode Config
 

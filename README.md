@@ -16,6 +16,11 @@ Topic 2: How to Start Datalab
 - Presented by @[Scorpicathe](https://github.com/Scorpicathe)
 - [TBD]()
 
+Topic 3: How to Contribute to ICS
+
+- Presented by @[root-hbx](https://github.com/root-hbx)
+- [Contribute to ICS](./Contribute2ICS.pdf)
+
 ---
 
 © 2025. ICS Team. All rights reserved.

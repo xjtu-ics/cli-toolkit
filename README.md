@@ -14,7 +14,7 @@ Topic 1: SSH for ICS Server && VSCode Config
 Topic 2: How to Start Datalab
 
 - Presented by @[Scorpicathe](https://github.com/Scorpicathe)
-- [TBD]()
+- [Intro2Datalab](./Intro2Datalab.pdf)
 
 Topic 3: How to Contribute to ICS
 
